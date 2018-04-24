@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         //todo cnp - implement
         //todo gdpr - implement
+        //todo NEW - implement
     }
 }
