@@ -12,5 +12,6 @@ class MainActivity : AppCompatActivity() {
         //todo gdpr - implement
         //todo NEW - implement
         //todo NEW2 - implement
+        //todo MARK - implement feature
     }
 }
