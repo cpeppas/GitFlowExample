@@ -11,5 +11,6 @@ class MainActivity : AppCompatActivity() {
         //todo cnp - implement
         //todo gdpr - implement
         //todo NEW - implement
+        //todo NEW2 - implement
     }
 }
